@@ -1,0 +1,1 @@
+A tiny scraper to scrape the award winners on [fragrantica](https://www.fragrantica.com)'s awards pages. The data is intended to be used for data analysis by a friend. Project is practically done but I'm still going to stick a WIP tag on it. 
